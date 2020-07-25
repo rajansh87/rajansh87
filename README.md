@@ -2,7 +2,7 @@
 
 <!--
 **rajansh87/rajansh87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 
 - 🔭 I’m currently Studying Btech CSE @JaypeeUniversityofEngineeringandTechnology
 - 🌱 I’m currently learning Data Structures, Competitive Programming, Machine Learning with DevOps Integration, Red Hat Enterprise Linux 8.
