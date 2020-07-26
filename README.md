@@ -8,8 +8,8 @@
 - 🌱 I’m currently learning Data Structures, Competitive Programming, Machine Learning with DevOps Integration, Red Hat Enterprise Linux 8.
 - 🤔 I’m looking for good opportunities for my future.
 - 💬 Ask me about Data Structures, Competitive Programming, MLOps, RHEL8.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ansh-raj/) , [Mail](rajansh87@gmail.com)
-- 😄 Pronouns: Learner
+- 📫 Contact me: [LinkedIn](https://www.linkedin.com/in/ansh-raj/) , [Mail](rajansh87@gmail.com)
+- 😄 Pronouns: Learner...
 - ⚡ Fun fact: I likes exploring, analysing and learning new things...
 
 
