@@ -6,9 +6,9 @@
 **rajansh87/rajansh87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I've Completed my Btech Graduation in Computer Science and Engineering @JaypeeUniversityofEngineeringandTechnology
-- 🌱 I’m currently learning Data Structures, Competitive Programming, MLOps, RedHat Enterprise Linux 8, Docker-CE. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🤔 I’m looking for good opportunities for my future.
+- 🏦 I've Completed my Btech Graduation in Computer Science and Engineering @JaypeeUniversityofEngineeringandTechnology
+- 📖 I’m currently learning Data Structures, Competitive Programming, MLOps, RedHat Enterprise Linux 8, Docker-CE. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🤔 I’m looking for good job opportunities for my future.
 - 💬 Ask me about Data Structures, Competitive Programming, MLOps, RHEL8, Docker and stuffs like
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="20" height="20"/> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="20" height="20"/> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/> <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original-wordmark.svg" alt="redhat" width="20" height="20"/> <img src="https://cutt.ly/Yx3uZhq" alt="mlops" width="20" height="20"/>
 
