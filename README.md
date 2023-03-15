@@ -5,7 +5,7 @@
 <!--
 **rajansh87/rajansh87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 	:office: I am currently working as a Software Engineer at Paytm.
+- 	:office: I am currently working as a Software Engineer.
 - 🏦 I've Completed my Btech Graduation in Computer Science and Engineering @JaypeeUniversityofEngineeringandTechnology
 - 📖 I’m currently learning Data Structures, Competitive Programming, MLOps, RedHat Enterprise Linux 8, Docker-CE, SpringBoot, Kotlin, RESTful Microservices. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 I’m looking for good job opportunities for my future.
