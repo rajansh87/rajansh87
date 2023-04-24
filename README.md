@@ -19,4 +19,4 @@
 <a href="https://www.instagram.com/ishu.shriv/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Anshraj Shrivastava" height="40" width="40" /></a>
 
  
-<img src = "https://github-readme-stats.vercel.app/api?username=rajansh87&&show_icons=true&theme=radical">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajansh87&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<img src = "https://github-readme-stats.vercel.app/api?username=rajansh87&&show_icons=true&theme=radical">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajansh87&langs_count=8&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
