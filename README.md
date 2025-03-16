@@ -10,9 +10,24 @@
 - 📖 I’m currently learning Data Structures, Competitive Programming, MLOps, RedHat Enterprise Linux 8, Docker-CE, SpringBoot, Kotlin, RESTful Microservices. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 I’m looking for good job opportunities for my future.
 - 💬 Ask me about Data Structures, Competitive Programming, MLOps, RHEL8, Docker , Springboot, RESTFul Microservices and stuffs like
-- 
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>                                                             <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="50" height="50"/>                                             <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50"/>                                                                                                                                                                <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>                                                                                                                                                                <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>                                                                                                                                                                <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>                                                                                                                                                                   <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original-wordmark.svg" alt="redhat" width="50" height="50"/>                                       <img src="https://cutt.ly/Yx3uZhq" alt="mlops" width="90" height="90"/>                                                                                                     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>     <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" alt="kotlin" width="50" height="50"/>       <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="50" height="50"/>     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/> 
+---
 
+### 🛠️ Tech Stack  
+#### **Programming Languages & Frameworks**  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+![Erlang](https://img.shields.io/badge/Erlang-%23A90533.svg?style=for-the-badge&logo=erlang&logoColor=white)  
+
+#### **Backend & Cloud Technologies**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  
+![Kafka](https://img.shields.io/badge/Kafka-%23000000.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)  
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-%23009688.svg?style=for-the-badge&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+
+---
 
 - 📫 Contact me:  <a href="https://www.linkedin.com/in/ansh-raj/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Anshraj Shrivastava" height="40" width="40" /></a> &nbsp;
 <a href="mailto:rajansh87@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="rajansh87@gmail.com" height="40" width="40" /></a>
