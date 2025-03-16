@@ -33,5 +33,7 @@
 <a href="mailto:rajansh87@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="rajansh87@gmail.com" height="40" width="40" /></a>
 <a href="https://www.instagram.com/ishu.shriv/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Anshraj Shrivastava" height="40" width="40" /></a>
 
- 
-<img src = "https://github-readme-stats.vercel.app/api?username=rajansh87&&show_icons=true&theme=radical">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajansh87&langs_count=7&layout=compact&theme=merko&hide=C)](https://github.com/anuraghazra/github-readme-stats)
+
+![rajansh87's Stats](https://github-readme-stats.vercel.app/api?username=rajansh87&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+![rajansh87's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajansh87&theme=highcontrast&hide_border=true)
+![rajansh87's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajansh87&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
